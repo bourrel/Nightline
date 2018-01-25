@@ -1,0 +1,9 @@
+{
+ "establishmentID": 415,
+ "menuID": 426,
+ "soiree": {
+	"desc": "new soiree op",
+ 	"begin": "Jul 07, 2017 at 5:00pm (PST)",
+ 	"end": "Jul 07, 2017 at 12:00pm (PST)"
+ }
+}
